@@ -25,7 +25,5 @@ function processaTexto(texto) {
         }
     }
 
-
     return palavras;
-
 }
