@@ -47,8 +47,8 @@ function contaFrequencias(palavras) {
     return frequencias;
 }
 
-fuction tiraPalavrasRuins(palavras){
-    
+function tiraPalavrasRuins(palavras){
+
     const palavrasBoas = [];
 
     for (let palavra of palavras) {
